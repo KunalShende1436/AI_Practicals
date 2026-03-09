@@ -1,2 +1,0 @@
-Aim: Analyze suitable technique to Implement Cryptarithmetic Puzzle
-and implement the same.

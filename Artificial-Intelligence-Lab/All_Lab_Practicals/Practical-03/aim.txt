@@ -1,2 +1,0 @@
-Analyze suitable technique to Build a Tic-Tac-Toe Game Engine with an AI Player
-in Python.

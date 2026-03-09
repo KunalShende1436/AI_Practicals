@@ -1,2 +1,0 @@
-Aim: Implement the concept of Alpha Beta Pruning for optimization in
-Game development.
